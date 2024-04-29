@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @10JERRY01.
-- 👀 I’m interested in data analysis, machine learning/AI and competitive programming and trying to make a difference to the world through my knowledge.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate ...
+- 👀 I’m interested in data analysis, machine learning/AI, and competitive programming and trying to improve myself day by day.
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate with like-minded people.
 - 📫 How to reach me ...
 
 <!---
